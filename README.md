@@ -1,0 +1,2 @@
+# cs50x
+this is cs50x harvard 
