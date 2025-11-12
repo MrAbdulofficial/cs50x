@@ -1,0 +1,62 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+}
+.jumbotron {
+ 
+  background: linear-gradient(145deg, #212529, #343a40);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+  color: #f8f9fa;
+}
+
+.jumbotron h1 {
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.jumbotron p {
+  color: #ced4da;
+}
+
+.btn-outline-light:hover {
+  background-color: #f8f9fa;
+  color: #212529;
+  transition: all 0.3s ease;
+}
+
+h1, h2 {
+  color: white;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+
+
+.progress {
+  height: 25px;
+  border-radius: 10px;
+}
+
+footer {
+  font-size: 0.9em;
+}
+/* Make footer stay at bottom */
+html, body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: auto; /* Push footer to bottom */
+  text-align: center;
+  background-color: #212529;
+  color: white;
+  padding: 15px 0;
+  font-size: 0.9em;
+  letter-spacing: 0.5px;
+}

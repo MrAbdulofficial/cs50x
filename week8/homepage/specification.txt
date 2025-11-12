@@ -1,0 +1,4 @@
+HTML Tags: h1, h2, p, a, img, div, button, form, input, textarea, footer, nav
+CSS Properties: font-family, background-color, color, border-radius, transition
+Bootstrap: Used Bootstrap navbar, jumbotron, progress bars, and forms.
+JavaScript: Added interactive alerts on homepage button and contact form submission
